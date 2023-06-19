@@ -1,2 +1,2 @@
 # TicTacToe
-A simple tic tac toe made in godot.
+Simple tic tac toe game in godot
